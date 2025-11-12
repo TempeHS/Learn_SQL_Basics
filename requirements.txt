@@ -1,0 +1,12 @@
+# SQL and Database Libraries
+ipython-sql
+SQLAlchemy
+peewee
+
+# Data Analysis
+pandas
+
+# Jupyter Notebook Support
+jupyter
+notebook
+ipykernel
